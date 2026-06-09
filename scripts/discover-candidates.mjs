@@ -73,6 +73,7 @@ if (restoredProviders.size === 0) {
   restoreExistingCandidatesForSourceTypes([
     "github-readme-link",
     "project-website-common-path",
+    "project-website-docs-subdomain",
     "project-website-link",
   ]);
 }
